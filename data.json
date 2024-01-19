@@ -1,0 +1,41 @@
+{
+  "Crud": [
+    {
+      "id": 1,
+      "name": "Pure Food & Water",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support.",
+      "price": 20,
+      "image": "./ASSETS/image/services1 (1).svg"
+    },
+    {
+      "id": 2,
+      "name": "Health & Medicine",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support.",
+      "price": 38,
+      "image": "./ASSETS/image/services1.svg"
+    },
+    {
+      "id": 3,
+      "name": "Education",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support.",
+      "price": 14,
+      "image": "./ASSETS/image//services2.svg"
+    },
+    {
+      "id": 4,
+      "name": "Education",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support.",
+      "price": 25,
+      "image": "./ASSETS/image//services2.svg"
+    }
+  ],
+  "Fav": [
+    {
+      "id": 2,
+      "name": "Health & Medicine",
+      "des": "Odio aliquet, fringilla odio eget, tincidunt nunc duis aliquet pulvinar ante employees and organizations to support.",
+      "price": 38,
+      "image": "./ASSETS/image/services1.svg"
+    }
+  ]
+}
